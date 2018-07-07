@@ -1,4 +1,4 @@
 {
-  "clientId": "a56948bc5fe6e80c1a241151611a53350518c119ea413de4375694ebebbd68e0",
-  "redirectUri": "https://ynab.github.io/ynab-api-starter-kit/"
+  "clientId": "2b6a5ff2ee6ede1c9acefdbe620785f55dc460f9492a919b67eac3a8a60779cd",
+  "redirectUri": "urn:ietf:wg:oauth:2.0:oob"
 }
